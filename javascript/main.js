@@ -172,7 +172,7 @@ var colorThemes = {
   },
   'Yellow': {
     'backgroundtype': 'image',
-    'background': '/images/bg/yellow.jpg',
+    'background': '/images/bg/sunchipbg.jpg',
     'textbg': '#101629',
     'text': '#ffff00',
     'link': '#00ff00',
