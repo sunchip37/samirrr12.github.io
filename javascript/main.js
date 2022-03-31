@@ -136,7 +136,7 @@ function buttonHover(element,defaultbg) {
 var colorThemes = {
   'Default': {
     'backgroundtype': 'image',
-    'background': '/images/bg/default.png',
+    'background': '/images/bg/sunchipbg.jpg',
     'textbg': '#eeeeff',
     'text': '#000000',
     'link': '#0000ff',
